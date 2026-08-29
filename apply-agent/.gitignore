@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+user-profiles
+downloads
+screenshots
+*.log
+

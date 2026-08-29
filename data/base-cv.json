@@ -1,0 +1,57 @@
+{
+  "name": "Your Name",
+  "title": "Full-Stack Developer",
+  "email": "you@example.com",
+  "phone": "+44 7000 000000",
+  "location": "London, United Kingdom",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/yourname",
+    "github": "https://github.com/yourname",
+    "portfolio": "https://yourname.vercel.app"
+  },
+  "summary": "Full-stack developer focused on building reliable, accessible, and polished web products. Experienced across React, Next.js, Node.js, PostgreSQL, and applied AI workflows.",
+  "experience": [
+    {
+      "role": "Full-Stack Developer",
+      "company": "Independent Projects",
+      "dates": "2022 - Present",
+      "bullets": [
+        "Built production-style applications with Next.js, TypeScript, PostgreSQL, and Prisma.",
+        "Designed responsive interfaces with strong accessibility, performance, and maintainability standards.",
+        "Integrated AI features including chat assistants, structured generation, and workflow automation.",
+        "Implemented authentication, database models, server actions, API routes, and deployment pipelines."
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "company": "Project Studio",
+      "dates": "2020 - 2022",
+      "bullets": [
+        "Delivered React and Node.js features from brief through release.",
+        "Improved data fetching patterns, validation, and error handling across core workflows.",
+        "Collaborated with stakeholders to translate product requirements into practical technical plans.",
+        "Maintained testable, typed code with reusable components and clear service boundaries."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "University or Training Provider",
+      "degree": "BSc Computer Science or Equivalent Experience",
+      "dates": "2017 - 2020",
+      "details": "Software engineering, databases, distributed systems, and human-computer interaction."
+    }
+  ],
+  "skills": {
+    "Frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS", "Accessibility", "Framer Motion"],
+    "Backend": ["Node.js", "PostgreSQL", "Prisma", "REST APIs", "Server Actions", "Zod"],
+    "DevOps": ["Vercel", "GitHub Actions", "Docker basics", "Monitoring"],
+    "AI/ML": ["structured workflow design", "RAG", "Input design", "Structured JSON generation"],
+    "Tools": ["Git", "Playwright", "Figma", "Postman", "VS Code"]
+  },
+  "certifications": ["applied software projects", "Responsive Web Design"],
+  "languages": ["English"]
+}
+
+
+

@@ -1,0 +1,3 @@
+Production-oriented portfolio and private AI job copilot built with Next.js, TypeScript, Prisma, PostgreSQL, Tailwind, local tailoring workflow, and a local apply agent.
+
+
